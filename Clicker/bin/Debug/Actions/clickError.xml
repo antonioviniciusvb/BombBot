@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ActionsEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Action>
+        <X>
+            359
+        </X>
+        <Y>
+            265
+        </Y>
+        <Text />
+        <interval>
+            12
+        </interval>
+        <Type>
+            0
+        </Type>
+    </Action>
+    <Action>
+        <X>
+            1012
+        </X>
+        <Y>
+            852
+        </Y>
+        <Text />
+        <interval>
+            8
+        </interval>
+        <Type>
+            0
+        </Type>
+    </Action>
+    <Action>
+        <X>
+            1788
+        </X>
+        <Y>
+            554
+        </Y>
+        <Text />
+        <interval>
+            0
+        </interval>
+        <Type>
+            0
+        </Type>
+    </Action>
+</ActionsEntry>
